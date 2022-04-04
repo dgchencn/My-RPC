@@ -1,0 +1,5 @@
+# Project exclude paths
+/rpc-core/target/
+/test-api/target/
+/test-client/target/
+/test-server/target/
